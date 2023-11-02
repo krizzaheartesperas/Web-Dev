@@ -1,0 +1,157 @@
+.HOME {
+    background-color: rgba(255, 255, 255, 1);
+    background-repeat: no-repeat;
+}
+
+.HOME .div {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(255, 255, 255) 16.24%, rgb(198.4, 151.35, 245.44) 100%);
+    width: 1535px;
+    height: 747px;
+    position: relative;
+}
+
+body {
+    margin: 0;
+}
+
+.HOME .overlap-group {
+    position: absolute;
+    width: 490px;
+    height: 399px;
+    top: 192px;
+    left: 123px;
+}
+
+
+
+.HOME .what-is-HTML-HTML-is {
+    position: absolute;
+    width: 349px;
+    top: 50px; 
+    left: 70px; 
+    font-family: "Poppins-ExtraBold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px; 
+    letter-spacing: 0;
+    line-height: 14px; 
+    z-index: 1;
+}
+
+
+.HOME .text-wrapper {
+    font-weight: 800;
+    line-height: 25.4px;
+}
+
+.HOME .span {
+    font-weight: 800;
+    line-height: 20.8px;
+}
+
+.HOME .text-wrapper-2 {
+    font-family: "Poppins-Regular", Helvetica;
+    line-height: 25.4px;
+}
+
+.HOME .vector {
+    position: absolute;
+    width: 490px;
+    height: 399px;
+    top: 0;
+    left: 0;
+}
+
+.HOME .overlap {
+    position: absolute;
+    width: 1535px;
+    height: 67px;
+    top: 0;
+    left: 0;
+    background-color: #c697f5;
+    border-radius: 0px 0px 12px 12px;
+}
+
+.HOME .text-wrapper-3 {
+    position: absolute;
+    top: 16px;
+    left: 739px;
+    font-family: "Plasto Trial-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .text-wrapper-4 {
+    position: absolute;
+    top: 16px;
+    left: 884px;
+    font-family: "Plasto Trial-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .text-wrapper-5 {
+    position: absolute;
+    top: 16px;
+    left: 1051px;
+    font-family: "Plasto Trial-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.HOME .rectangle {
+    position: absolute;
+    width: 100px;
+    height: 5px;
+    top: 46px;
+    left: 720px;
+    background-color: #721b91;
+    border-radius: 12px;
+}
+
+.HOME .element {
+    position: absolute;
+    width: 192px;
+    height: 34px;
+    top: 17px;
+    left: 46px;
+    object-fit: cover;
+}
+
+.HOME .image-wrapper {
+    position: absolute;
+    width: 329px;
+    height: 41px;
+    top: 13px;
+    left: 344px;
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+
+.HOME .image {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 10px;
+    left: 292px;
+    object-fit: cover;
+}
+
+.HOME .full-stack {
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    top: 97px;
+    left: 774px;
+    object-fit: cover;
+}
